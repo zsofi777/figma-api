@@ -1,1 +1,1 @@
-## [Figma API](https://www.figma.com/developers/api) experiment :satellite:
+## My [Figma](https://www.figma.com) designs :lips:
